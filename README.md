@@ -15,4 +15,4 @@
 加--web即可扫描IP段Web资产，目前可以扫描网站状态码、Web容器、Title标题等。
 ```
 
-![image-20210224083846990](/home/i12345/.config/Typora/typora-user-images/image-20210224083846990.png)
+![image-20210224083846990](https://github.com/XiaoBai-12138/a/blob/main/image-20210224083846990.png)
